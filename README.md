@@ -101,7 +101,7 @@ testSuperclassOf
 ## Screenshot of Test Results
 Below is an example screenshot of successful test execution:
 
-![Test Results](./PharoDocumenter.PNG)
+![Test Results](./TestResults.PNG)
 
 ---
 
