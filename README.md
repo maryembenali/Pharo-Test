@@ -101,14 +101,13 @@ testSuperclassOf
 ## Screenshot of Test Results
 Below is an example screenshot of successful test execution:
 
-![Test Results](./TestResults.PNG)
+![Test Results](./Test_Results.PNG)
 
 ---
 
 ## Pharo Image File
-Include the Pharo image file used for this project to ensure reproducibility:
+- Due to the large size of the Pharo image file, it has not been included in this repository. If required for evaluation, please let me know, and I will provide it separately.
 
-- **Filename**: `PharoDocumenter.image`
 
 ---
 
