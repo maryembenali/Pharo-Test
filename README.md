@@ -94,7 +94,7 @@ SparseMatrixTest >> testDecoding
 ### Screenshot of Test Results
 Below is an example screenshot of test execution:
 
-![Test Results](./result1.PNG)
+![Test Results](./result2.PNG)
 
 ---
 
