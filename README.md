@@ -1,3 +1,5 @@
+# Test Solutions
+
 ## Part1: 
 
 Goal: Create a program that converts a traditional matrix representation (2D array) into a sparse matrix representation and vice versa. 
@@ -51,7 +53,7 @@ SparseMatrix >> decode: sparseDictionary size: matrixSize
     ^ matrix.
 ```
 
-#### SparseMatrixTest class
+#### Class `SparseMatrixTest`
 This class verify both encoding and decoding functionality for the sparse matrix operations.
 
 ```smalltalk
